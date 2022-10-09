@@ -1,0 +1,5 @@
+*.csv
+
+manual_testing.csv
+True.csv
+Fake.csv
